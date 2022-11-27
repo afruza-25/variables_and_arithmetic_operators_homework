@@ -5,6 +5,6 @@ b=3
 # Create a variable "c"  and assign it the value of the int 5.
 c=5
 # Create a variable called "answer".
-answer=15
+answer=a+b+c
 # Find the sum of a, b and c then assign to "answer".
-a+b+c=answer
+print(answer)

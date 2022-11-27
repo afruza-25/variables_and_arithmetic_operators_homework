@@ -1,4 +1,4 @@
-name: Variables and Arithmetic Operators
+                    name: Variables and Arithmetic Operators
 on: [push]
 jobs:
   build:

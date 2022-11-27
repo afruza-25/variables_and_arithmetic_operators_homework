@@ -7,6 +7,6 @@ c=2
 # Create a variable "d"  and assign it the value of the int 4.
 d=4
 # Create a variable called 'answer'.
-answer=5
+answer=a+b-c*d 
 # Find the expression value assign to 'answer'. a+b - cd .
-a+b-c d=answer
+print(answer)
