@@ -9,4 +9,3 @@ d=4
 # Create a variable called 'answer'.
 answer=a+b-c*d
 # Find the expression value assign to 'answer'. a+b - cd .
-print(answer)
